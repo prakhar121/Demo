@@ -1,3 +1,5 @@
+// binary search using java
+
 import java.util.*;  
 public class BinarySearch {  
 public static void main(String[] args) {  
