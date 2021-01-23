@@ -1,6 +1,4 @@
-// C code to linearly search x in arr[]. If x 
-// is present then return its location, otherwise 
-// return -1 
+
 
 #include <stdio.h> 
 
@@ -13,7 +11,7 @@ int search(int arr[], int n, int x)
 	return -1; 
 } 
 
-// Driver code 
+
 int main(void) 
 { 
 	int arr[] = { 2, 3, 4, 10, 40 }; 
