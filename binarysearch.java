@@ -32,6 +32,8 @@ public static int binarySearch(int[] a, int beg, int end, int item)
         {  
             return binarySearch(a,beg,mid-1,item);  
         }  
+        
+        //made changes to learn pull request
       
     }  
     return -1;   
